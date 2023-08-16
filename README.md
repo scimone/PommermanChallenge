@@ -1,5 +1,6 @@
 # Pommerman Challenge
 This notebook focuses on training a Deep Reinforcement Learning (DRL) agent to excel in the Pommerman Challenge. The Pommerman Tournament involves one-on-one battles on a 6x6 grid, where the agent must navigate the environment, compete against opponents, and make strategic decisions to achieve victory.
+![](img.png)
 
 ## Key Facts
 - Pommerman Tournament: The challenge revolves around one-on-one battles on a 6x6 grid.
